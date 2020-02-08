@@ -12,4 +12,3 @@ class Person
   end 
 end 
 
-Person.new 
